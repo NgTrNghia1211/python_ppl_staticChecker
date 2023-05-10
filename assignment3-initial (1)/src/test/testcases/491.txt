@@ -1,0 +1,6 @@
+
+				a: integer = 123;
+                main: function void () {
+					a: string = a;
+				}
+        		

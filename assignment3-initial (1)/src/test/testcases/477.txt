@@ -1,0 +1,7 @@
+
+        a: array [2] of integer;
+        main: function void () {
+            a = {1,2};
+            e(1);
+        }
+                

@@ -1,0 +1,12 @@
+
+                    a: integer = 1;
+		c: function auto (d: float) {
+			return d;
+		}
+	
+		main: function void () {
+			a = 1 + c(1.0);
+
+		}
+		//		main: function void () {}
+                

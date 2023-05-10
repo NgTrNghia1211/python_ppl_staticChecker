@@ -1,0 +1,11 @@
+
+		a : integer = 5;
+		foo: function integer (x: integer) {
+			do  {
+				a = 10;
+			    continue;
+			} while (a < 10);
+			return d;
+		}
+		main: function void () {}
+                

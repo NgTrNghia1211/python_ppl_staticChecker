@@ -1,0 +1,15 @@
+
+        a: integer = 5;
+		i: float = 5;
+		b: function integer (i : auto) {
+			return 12 % (i + 1) + d(5);
+		}
+		main: function void () {
+			b(a);
+			b(1);
+			a(1);
+		}
+		d: function integer (i : integer) {
+			return i;
+		}   
+                

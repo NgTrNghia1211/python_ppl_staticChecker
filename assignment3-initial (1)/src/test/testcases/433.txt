@@ -1,0 +1,11 @@
+
+        boo: function auto () {}
+        a: float = boo();
+        b: auto = 1 + boo();
+        goo: function void() {
+            a = b;
+            }
+        main: function void () {
+			a(1);
+		}
+                

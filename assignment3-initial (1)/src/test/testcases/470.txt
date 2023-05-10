@@ -1,0 +1,11 @@
+
+		a : boolean = false;
+		foo: function integer (x: integer) {
+			do  {
+				a = true;
+			    continue;
+			} while (!a);
+			return d;
+		}
+		main: function void () {}
+                

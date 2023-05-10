@@ -1,0 +1,6 @@
+
+        a: integer = 5;
+	 fn: function integer (a: integer) {
+		return a;
+	 }
+                

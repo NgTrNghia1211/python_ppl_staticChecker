@@ -1,0 +1,9 @@
+
+        a: float = 5;
+        goo: function auto () {}
+		main: function void () {
+			a = goo();
+            b: auto = goo();  
+            a(1);  
+        }
+                

@@ -1,0 +1,12 @@
+
+        a: integer = 5;
+        d: float;
+		b: function auto (i : auto) {
+			return i;
+		}
+		main: function void () {
+			c: float = b(a) + 1.5;
+            d = b(a);
+            a(1);
+		}
+                

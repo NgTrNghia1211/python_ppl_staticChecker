@@ -1,0 +1,7 @@
+
+				a: integer = 123;
+                b: integer = a;
+                mai: function void () {
+					
+				}
+        		

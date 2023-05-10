@@ -1,0 +1,12 @@
+
+        t: integer = 1;
+        b: float = 2;
+        too: function void () {
+            a: float = t + b;
+            c: float = 3 - 7;
+            //d: integer = 1.0;
+        }
+        main: function void () {
+			a(1);
+		}
+                

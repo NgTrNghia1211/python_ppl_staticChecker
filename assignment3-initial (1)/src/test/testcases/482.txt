@@ -1,0 +1,11 @@
+
+        b: integer = 5;
+        a: integer = 1;
+        c: auto = 1 % a;
+        e: float = 1;
+		main : function void () {
+            a = c;
+		    h: boolean = a <= e;
+            d: boolean = "a" > "b";
+        }
+                

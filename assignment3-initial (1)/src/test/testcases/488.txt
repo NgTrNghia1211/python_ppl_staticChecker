@@ -1,0 +1,13 @@
+
+        		a: integer = 1;
+        foo: function auto (x: integer, f: float) {
+	
+		}
+		gig: function void () inherit foo {
+			super(1.0, 2);
+			
+		}
+		main: function void () {
+			
+		}
+                

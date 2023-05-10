@@ -1,0 +1,8 @@
+
+				a: integer = 123;
+                b: integer = a;
+                a: boolean;
+                main: function void () {
+					a: string = a;
+				}
+        		

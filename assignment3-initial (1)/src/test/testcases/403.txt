@@ -1,0 +1,10 @@
+
+                    c: function integer (d: boolean) {
+			return 9;
+		}
+		a: integer = 5;
+		b: function integer (x: integer) {
+			return c(d);
+		}
+				main: function void () {}
+                

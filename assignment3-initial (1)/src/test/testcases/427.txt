@@ -1,0 +1,8 @@
+
+        foo: function float (a: auto, b: auto) {
+            return;
+        }
+        mai: function void() {
+            c: float = foo("ss", true);
+        }
+                

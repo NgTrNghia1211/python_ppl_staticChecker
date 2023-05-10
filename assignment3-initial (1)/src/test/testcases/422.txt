@@ -1,0 +1,8 @@
+
+        fn: function integer (x: string) {
+			return fn("avc");
+		}
+        main: function void () {
+			a(1);
+		}
+                

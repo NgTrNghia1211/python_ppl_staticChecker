@@ -1,0 +1,22 @@
+
+        foo: function auto () {
+	
+		}
+		bar: function integer () {
+			return 1;
+		}
+		a: boolean = foo() == bar();
+
+		main : function void () {
+			readInteger();
+			printInteger(1);
+			readFloat();
+			writeFloat(1.1);
+			readBoolean();
+			printBoolean(true);
+			readString();
+			printString("abc");
+            printString(b);
+
+		}
+                 

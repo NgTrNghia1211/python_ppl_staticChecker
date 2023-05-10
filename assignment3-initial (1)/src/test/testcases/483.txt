@@ -1,0 +1,9 @@
+
+        a : array[5] of integer = {1, 2, 3, 4, 5};
+		b : integer = a[5];
+		c : integer = a[6];
+		d : integer = a[0];
+		e : integer = a[-1];
+		f : integer = a[1.5];
+        main : function void () {}
+                

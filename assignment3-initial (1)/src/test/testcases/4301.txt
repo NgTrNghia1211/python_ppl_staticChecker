@@ -1,0 +1,6 @@
+
+        a: float = 5;
+		main: function void () {
+			a = 7;
+            }
+                

@@ -1,0 +1,20 @@
+
+		a: integer = 5;
+		foo: function integer (x: integer) {
+			b: auto = 5;
+			{
+				c: integer = 5;
+				{
+					d: integer = 5;
+				}
+				c = 6;
+				{
+					e: integer = 9;
+				}
+				e  = 10;
+			}
+			
+			return 1;
+		}
+			main: function void () {}
+                

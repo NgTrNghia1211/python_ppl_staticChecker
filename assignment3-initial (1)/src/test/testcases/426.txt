@@ -1,0 +1,9 @@
+
+        foo : function auto ( a : integer , b : integer ) {
+            return a + b;
+        }
+		a : auto = foo(1 , 2);
+		//b : integer = foo (1 , 2) + 1;
+
+		man: function void () { foo(1, 2); }
+                

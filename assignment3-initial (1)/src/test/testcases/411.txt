@@ -1,0 +1,9 @@
+
+        fn: function integer (x: integer) {
+			return x;
+			}
+			fn: function integer (x: integer) {
+				return x;
+				}
+		main: function void () {}
+                

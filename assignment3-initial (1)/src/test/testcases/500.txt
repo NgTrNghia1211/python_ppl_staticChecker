@@ -1,0 +1,17 @@
+
+        foo: function auto (a: string, b: string) {
+	
+		}
+		bar: function integer () {
+			return 1;
+		}
+
+        too: function integer (a: string, b: float) {
+        
+		}
+		main : function void () inherit bar {
+			//super("true", 1.0);
+            preventDefault();
+            foo("ab", "nc");
+		}
+                 

@@ -1,0 +1,8 @@
+
+        fun: function void () {
+            a: float = 1;
+        }
+        main: function void () {
+			a(1);
+		}
+                

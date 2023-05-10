@@ -1,0 +1,13 @@
+
+                    a1: integer = 5;
+		b: function integer (x: integer) {
+			x = 1;
+			{
+				c: integer = 5;
+				{
+					return a;
+				}
+			}
+		}
+				main: function void () {}
+                

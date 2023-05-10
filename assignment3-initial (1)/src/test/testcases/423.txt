@@ -1,0 +1,12 @@
+
+        goo: function boolean(a: boolean) {
+            return;
+        }
+        fn: function integer (x: string) {
+            goo(false);
+			return fn("avc");
+		}
+        main: function void () {
+			a(1);
+		}
+                

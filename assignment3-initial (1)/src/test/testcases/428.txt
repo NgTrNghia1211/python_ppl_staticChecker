@@ -1,0 +1,11 @@
+
+        a: integer = 5;
+		b: function float (i : float) {
+			return 1.0;
+		}
+		main: function void () {
+			b(a);
+			b(1);
+			a(1);
+            }
+                

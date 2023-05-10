@@ -1,0 +1,13 @@
+
+		foo: function auto (a: string, b: string) {
+	
+		}
+		gig: function void () inherit foo{
+			a = 1;
+			super("a", "b");
+			d(1);
+		}
+		main: function void () {
+			
+		}
+                

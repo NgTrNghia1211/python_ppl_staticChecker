@@ -1,0 +1,6 @@
+
+        a: float = 5;
+		mai: function void () {
+			a = 7;
+            }
+                

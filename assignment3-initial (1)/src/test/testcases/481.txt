@@ -1,0 +1,12 @@
+
+        a : integer = 5;
+		b : float = 10.5;
+		c : float = a + b;
+		d : float = a - b;
+		e : float = a * b;
+		f : float = a / b;
+		g : float = a % b;
+		h : boolean = a <= b;
+
+		main : function void () {}
+                

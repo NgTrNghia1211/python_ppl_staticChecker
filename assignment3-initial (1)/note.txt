@@ -1,0 +1,39 @@
+9/4/2023
+inherit:
+> call super()
++ first line in body () k gọi super() hay prevent() -> gọi ngầm -> chỉ áp dụng cho function super k có tham số
++ inherit function and params
+
+> K có testcase 2 hàm đều auto
+
+> arraylit {expr, }
+> arraylit {auto}
+	+ vardecl
+
+> lần sử dụng đầu tiên và return_stmt: ưu tiên return stmt 
+
+> có parameter auto
+
+> chỉ return stmt đầu tiên
+
+> ông nội k có kế thừa qua con
+
+> có vẻ param của cha và con k được cùng tên
+
+{} array in array 
+
+
+a -> inherit b in b có param inherit c => a thấy c
+
+[
+    foo -> goo (c) -> hoo(c)?
+
+    visit lần đầu chỉ lấy ra thôi
+
+    Lỗi not match kiểu tham số -> typemismatch in expression
+
+    for: scalar variable: id phải được khai báo trước đó
+
+    viết nhiều hơn thì được ? ??? array
+
+]

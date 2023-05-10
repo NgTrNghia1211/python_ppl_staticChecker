@@ -1,0 +1,1 @@
+Type mismatch in statement: AssignStmt(Id(a), BinExpr(+, IntegerLit(1), FuncCall(c, [FloatLit(1.0)])))

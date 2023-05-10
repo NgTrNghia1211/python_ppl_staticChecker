@@ -1,0 +1,6 @@
+
+        a: integer = 5;
+		c: array[2] of integer;
+		b: auto;
+		main: function void () {}
+                

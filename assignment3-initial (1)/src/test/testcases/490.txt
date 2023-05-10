@@ -1,0 +1,6 @@
+
+				foo: function void () {}
+                too: function void () {}
+                foo: function integer () {}
+                main: function void () {}
+        		
